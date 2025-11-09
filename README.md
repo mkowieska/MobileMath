@@ -23,6 +23,6 @@ a
 ```
 
 ## Virtual Device Manager
-W Android Studio"More Actions" → AVD Manager
-**Pixel 9 (1080x2424)**
-IPhone 16 (393x852)
+- W Android Studio"More Actions" → AVD Manager
+- **Pixel 9 (1080x2424)**
+- IPhone 16 (393x852)
