@@ -27,6 +27,6 @@ npx expo install react-native-worklets@0.5.1
 ```
 
 ## Virtual Device Manager
-- W Android Studio"More Actions" → AVD Manager
+- W Android Studio "More Actions" → AVD Manager
 - **Pixel 9 (1080x2424)**
 - IPhone 16 (393x852)
