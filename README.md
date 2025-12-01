@@ -1,4 +1,4 @@
-# MobileMath - MatematykaLab
+# MathDaily
 Mobilna aplikacja wspomagająca naukę matematyki
 
 ## Terminal 1
